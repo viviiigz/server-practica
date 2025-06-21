@@ -5,7 +5,7 @@ import morgan from 'morgan';//Registro de seguridad del evento, cada vez que lag
 
 //iniciaizamos
 const app = express(); //APP pone en marcha la organizacion del evento
-const PORT = 4000; // y lo vas a realizar en el puerto 4000
+const PORT = 3000; // y lo vas a realizar en el puerto 4000
 
 //middlewares
 //En Express, los middlewares son como "ayudantes" o "interceptores" que se ejecutan 
